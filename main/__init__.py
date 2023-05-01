@@ -6,7 +6,7 @@ from telegram.ext import Updater, CallbackQueryHandler, CallbackContext , Filter
 import datetime
 import random
  
-bot_token = '5602217970:AAGMsH9BVKO9cF_7dyXHsTx3KTID6AD-0N0'
+bot_token = '5602217970:AAFN0Sj8bakFutyYZ2__cnZX5lIy-lOiDpA'
  
 updater = Updater(token=bot_token, use_context=True)
 dispatcher = updater.dispatcher
